@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.87.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/raferianluba/white-hole.git"
+	},
   "categories": [
     "Themes"
   ],
