@@ -1,0 +1,21 @@
+{
+  "name": "white-hole",
+  "displayName": "white_hole",
+  "description": "Those who like light theme ig",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WHITE HOLE",
+        "uiTheme": "vs",
+        "path": "./themes/WHITE HOLE-color-theme.json"
+      }
+    ]
+  }
+}
