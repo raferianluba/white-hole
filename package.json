@@ -2,6 +2,7 @@
   "name": "white-hole",
   "displayName": "white_hole",
   "description": "Those who like light theme ig",
+  "publisher": "RRLC",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
