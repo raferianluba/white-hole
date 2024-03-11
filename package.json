@@ -3,7 +3,7 @@
 	"displayName": "WHITE HOLE",
 	"description": "Those who like light theme ig",
 	"publisher": "RRLC",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.87.0"
 	},
