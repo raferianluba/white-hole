@@ -1,26 +1,36 @@
 {
-  "name": "white-hole",
-  "displayName": "WHITE HOLE",
-  "description": "Those who like light theme ig",
-  "publisher": "RRLC",
-  "version": "0.1.0",
-  "engines": {
-    "vscode": "^1.87.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/raferianluba/white-hole.git"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "WHITE HOLE",
-        "uiTheme": "vs",
-        "path": "./themes/WHITE HOLE-color-theme.json"
-      }
-    ]
-  }
+	"name": "white-hole",
+	"displayName": "WHITE HOLE",
+	"description": "Those who like light theme ig",
+	"publisher": "RRLC",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.87.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/raferianluba/white-hole.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "WHITE HOLE",
+				"uiTheme": "vs",
+				"path": "./themes/WHITE HOLE-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6831060c-9d73-4b88-bde9-976607896c69",
+		"publisherId": "6a8601b6-b0c9-4740-bb27-c9ced0a0caa1",
+		"publisherDisplayName": "RRLC",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1710078943423
+	}
 }
