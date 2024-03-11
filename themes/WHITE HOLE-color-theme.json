@@ -1974,7 +1974,7 @@
     "terminal.foreground": "#333333",
     "terminal.selectionBackground": "#00000040",
     "terminalCursor.background": "#000000",
-    "terminalCursor.foreground": "#ffffff",
+    "terminalCursor.foreground": "#404040",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#0451a5",
